@@ -18,14 +18,17 @@ This project explores the relationship between air quality parameters (PM2.5, PM
 
 ## 📁 Project Structure
 
+```
 air-quality-productivity/
-├── air_quality.ipynb              # Jupyter notebook for data analysis & model training
+├── air_quality.ipynb                 # Jupyter notebook for data analysis & model training
 ├── air.py                         # Streamlit deployment application
 ├── README.md                      # Project documentation
 ├── air_quality_productivity.csv   # Generated dataset (after running notebook)
 ├── productivity_model.pkl         # Trained model (after running notebook)
 ├── scaler.pkl                     # Feature scaler (after running notebook)
-└── feature_columns.pkl            # Feature list (after running notebook)
+└── feature_columns.pkl           # Feature list (after running notebook)
+```
+
 
 
 ##  Dataset Features
@@ -81,6 +84,7 @@ Typical performance metrics (varies with random seed):
 | Linear Regression | ~4.5 | ~3.5 | ~0.75 |
 | Random Forest | ~3.8 | ~2.9 | ~0.82 |
 | Gradient Boosting | ~3.5 | ~2.7 | ~0.85 |
+
 
 
 
