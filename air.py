@@ -491,7 +491,8 @@ with tab3:
 st.markdown("---")
 st.markdown("""
 <div style="text-align: center; color: gray; padding: 20px;">
-    <p> Air Quality Impact on Productivity Analyzer | Built with Streamlit & ML</p>
+    <p> Air Quality Impact on Productivity Analyzer | Built by Aayush Panchal</p>
     <p style="font-size: 12px;">Data sources: Synthetic data based on real-world air quality patterns</p>
 </div>
 """, unsafe_allow_html=True)
+
