@@ -491,7 +491,12 @@ with tab3:
 st.markdown("---")
 st.markdown("""
 <div style="text-align: center; color: gray; padding: 20px;">
+<<<<<<< HEAD
     <p>Built by Aayush Panchal</p>
+=======
+    <p> Air Quality Impact on Productivity Analyzer | Built by Aayush Panchal</p>
+>>>>>>> 759c8e0f20dd67e82f2089de0d760fd7a64d8ac5
     <p style="font-size: 12px;">Data sources: Synthetic data based on real-world air quality patterns</p>
 </div>
 """, unsafe_allow_html=True)
+
